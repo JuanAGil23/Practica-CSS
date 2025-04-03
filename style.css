@@ -1,0 +1,20 @@
+.texto-violet{
+color: blueviolet;
+font-size: 55px;
+text-align: center;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.texto-blue{
+color: blue;
+font-size: 30px;
+text-align:left;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.texto-pink{
+color: rgb(248, 1, 145);
+font-size: 20px;
+text-align: justify;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
